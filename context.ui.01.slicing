@@ -1,1 +1,419 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T20:03:24.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="OCTCz6VzGU-G8Saw90EO" version="15.0.3" type="github" pages="2"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">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</diagram><diagram id="Dl-SKnOCqFoeeJ88I3Q5" name="Page-2">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-29T20:52:27.930Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="oVocr8gXLlG5a9daHL-n" version="15.0.3" type="github" pages="2">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1106" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="PERK UP WITH A LATTE" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="670" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-7" target="3nuBFxr9cyL0pnOWT2aG-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="Customer" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry y="40" width="670" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="Setup Local Environm" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
+          <mxGeometry x="40" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-4" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="Install an IDE&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
+          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="Find barista" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-4" vertex="1">
+          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Make transaction" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
+          <mxGeometry x="170" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="Request latte" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
+          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-10" value="Buy latte" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
+          <mxGeometry x="150" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-11" value="Feel perky" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
+          <mxGeometry x="540" width="130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" source="3nuBFxr9cyL0pnOWT2aG-13" target="3nuBFxr9cyL0pnOWT2aG-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-13" value="Drink latte" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
+          <mxGeometry x="20" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
+          <mxGeometry x="20" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-15" value="Barista" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry y="220" width="670" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-16" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
+          <mxGeometry x="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-17" value="Greet customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-16" vertex="1">
+          <mxGeometry x="20" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-18" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
+          <mxGeometry x="170" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" source="3nuBFxr9cyL0pnOWT2aG-20" target="3nuBFxr9cyL0pnOWT2aG-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-20" value="Accept&lt;br&gt;payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" vertex="1">
+          <mxGeometry x="150" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-21" value="Write details&lt;br&gt;on cup" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" vertex="1">
+          <mxGeometry x="20" y="10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-22" value="Make latte" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="3nuBFxr9cyL0pnOWT2aG-18" vertex="1">
+          <mxGeometry x="260" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-23" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-15" vertex="1">
+          <mxGeometry x="540" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-17" target="3nuBFxr9cyL0pnOWT2aG-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="260" />
+              <mxPoint x="160" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-9" target="3nuBFxr9cyL0pnOWT2aG-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-21" target="3nuBFxr9cyL0pnOWT2aG-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="260" />
+              <mxPoint x="300" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-10" target="3nuBFxr9cyL0pnOWT2aG-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-22" target="3nuBFxr9cyL0pnOWT2aG-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="260" />
+              <mxPoint x="530" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WaslgL0UOugJN-eDG02H-3" target="WaslgL0UOugJN-eDG02H-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-3" value="&lt;h1&gt;HTML slicing&lt;/h1&gt;&lt;p&gt;You have an png image or PSD file and you want to slice assets you would need to build your index html page&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="170" y="450" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WaslgL0UOugJN-eDG02H-14" target="WaslgL0UOugJN-eDG02H-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WaslgL0UOugJN-eDG02H-14" target="WaslgL0UOugJN-eDG02H-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-14" value="&lt;h1&gt;Build index html template&lt;/h1&gt;&lt;p&gt;You will have your assets already by now.&amp;nbsp;&lt;br&gt;You may have to import bootstrap css or any other CSS framework you are familiar with.&amp;nbsp;&lt;br&gt;Create your page index.html to match as much as possible to your original design.&lt;br&gt;&lt;br&gt;Beware: it is possible the first iteration of your html page would not be as similiar as the original. It is ok for the first iteration mostly if you are not familiar with CSS design patterns. Do not frustrate and run a second iteration of your page until you feel comfortable with the final product&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="450" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WaslgL0UOugJN-eDG02H-16" target="WaslgL0UOugJN-eDG02H-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-16" value="&lt;h1&gt;&lt;span&gt;Bootstrap CSS&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;You may have to import bootstrap css or any other CSS framework you are familiar with.&amp;nbsp;&lt;br&gt;Create your page index.html to match as much as possible to your original design.&lt;br&gt;&lt;br&gt;Beware: it is possible the first iteration of your html page would not be as similiar as the original. It is ok for the first iteration mostly if you are not familiar with CSS design patterns. Do not frustrate and run a second iteration of your page until you feel comfortable with the final product&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="820" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-18" value="&lt;h1&gt;Webserver&lt;/h1&gt;&lt;div&gt;Once you have an index html page youu feel comfortable you install a web server that is easy to configure and where you can easy put your chances.&lt;br&gt;&lt;br&gt;If you are working with mac chances are apache is already configured for you. Otherwise you can install following the procedure in apache homepage.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="450" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WaslgL0UOugJN-eDG02H-24" target="WaslgL0UOugJN-eDG02H-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-24" value="&lt;h1&gt;&lt;span&gt;Layout&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;You may have to import bootstrap css or any other CSS framework you are familiar with.&amp;nbsp;&lt;br&gt;Create your page index.html to match as much as possible to your original design.&lt;br&gt;&lt;br&gt;Beware: it is possible the first iteration of your html page would not be as similiar as the original. It is ok for the first iteration mostly if you are not familiar with CSS design patterns. Do not frustrate and run a second iteration of your page until you feel comfortable with the final product&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="870" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WaslgL0UOugJN-eDG02H-26" target="WaslgL0UOugJN-eDG02H-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-26" value="&lt;h1&gt;&lt;span&gt;View changes&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;You may have to import bootstrap css or any other CSS framework you are familiar with.&amp;nbsp;&lt;br&gt;Create your page index.html to match as much as possible to your original design.&lt;br&gt;&lt;br&gt;Beware: it is possible the first iteration of your html page would not be as similiar as the original. It is ok for the first iteration mostly if you are not familiar with CSS design patterns. Do not frustrate and run a second iteration of your page until you feel comfortable with the final product&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1060" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WaslgL0UOugJN-eDG02H-28" target="WaslgL0UOugJN-eDG02H-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1320" />
+              <mxPoint x="360" y="947" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-28" value="&lt;h1&gt;&lt;span&gt;Refinement&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;You may have to import bootstrap css or any other CSS framework you are familiar with.&amp;nbsp;&lt;br&gt;Create your page index.html to match as much as possible to your original design.&lt;br&gt;&lt;br&gt;Beware: it is possible the first iteration of your html page would not be as similiar as the original. It is ok for the first iteration mostly if you are not familiar with CSS design patterns. Do not frustrate and run a second iteration of your page until you feel comfortable with the final product&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1260" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaslgL0UOugJN-eDG02H-31" value="&lt;h1&gt;Iterations&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1040" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Dl-SKnOCqFoeeJ88I3Q5" name="Page-2">
+    <mxGraphModel dx="4552" dy="2544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-0" />
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-1" parent="m9m_Br6r4iPs8pthSSDI-0" />
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="m9m_Br6r4iPs8pthSSDI-1" source="m9m_Br6r4iPs8pthSSDI-31" target="m9m_Br6r4iPs8pthSSDI-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-31" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Your brand product name and logo.&lt;/p&gt;&lt;p&gt;This needs to be 100% width of the page to be responsive&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;glass=1;sketch=1;verticalAlign=middle;" parent="m9m_Br6r4iPs8pthSSDI-1" vertex="1">
+          <mxGeometry x="930" y="400" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-46" value="&lt;h1&gt;Padding right&lt;/h1&gt;&lt;p&gt;You must preserve a padding right to have your main content centered. Bootstrap CSS have examples of this pattern that make your page responsive. Measure of padding right must be in percentage&lt;br&gt;padding-right:20% = 20 % out of total document size&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;glass=1;sketch=1;verticalAlign=middle;" parent="m9m_Br6r4iPs8pthSSDI-1" vertex="1">
+          <mxGeometry x="930" y="590" width="360" height="145.1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-2" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="40" y="460" width="720" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-26" value="" style="whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;rotation=90;fillColor=#C4C4C4;gradientColor=#ffffff;strokeWidth=2;spacingLeft=0;spacingBottom=-2;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="460" y="204.89999999999998" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-25" value="" style="whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;rotation=90;labelBorderColor=#000000;fillColor=#C4C4C4;gradientColor=#ffffff;strokeWidth=3;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="110" y="204.89999999999998" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-27" value="" style="whiteSpace=wrap;html=1;shadow=1;rotation=-180;fillColor=#3C7AF8;gradientDirection=east;strokeColor=#212529;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="300" y="430" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-28" value="" style="whiteSpace=wrap;html=1;shadow=1;rotation=-180;fillColor=#3C7AF8;gradientDirection=south;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="300" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-29" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;gradientColor=#ffffff;strokeColor=none;sketch=1;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="360" y="60" width="300" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="BQ0tYwW8RrJyI0LsjAmY-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="300" as="targetPoint" />
+            <mxPoint x="190" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-38" value="" style="endArrow=classic;html=1;fontColor=#000000;" parent="BQ0tYwW8RrJyI0LsjAmY-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="520" as="sourcePoint" />
+            <mxPoint x="710" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-39" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="m9m_Br6r4iPs8pthSSDI-38" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-40" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="m9m_Br6r4iPs8pthSSDI-38" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-41" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="m9m_Br6r4iPs8pthSSDI-38" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-42" value="" style="endArrow=classic;html=1;fontColor=#000000;" parent="BQ0tYwW8RrJyI0LsjAmY-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="660" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-43" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="m9m_Br6r4iPs8pthSSDI-42" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-44" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="m9m_Br6r4iPs8pthSSDI-42" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-45" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="m9m_Br6r4iPs8pthSSDI-42" connectable="0" vertex="1">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="BQ0tYwW8RrJyI0LsjAmY-2" source="m9m_Br6r4iPs8pthSSDI-46" target="m9m_Br6r4iPs8pthSSDI-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=1.008;exitY=0.54;exitDx=0;exitDy=0;exitPerimeter=0;" parent="BQ0tYwW8RrJyI0LsjAmY-2" source="BQ0tYwW8RrJyI0LsjAmY-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-48" value="&lt;h1&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; font-weight: 400&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bh1%26gt%3BHeading%26lt%3B%2Fh1%26gt%3B%26lt%3Bp%26gt%3BYour%20brand%20product%20name%20and%20logo.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%26gt%3BThis%20needs%20to%20be%20100%25%20width%20of%20the%20page%20to%20be%20responsive%26lt%3B%2Fp%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Bspacing%3D5%3BspacingTop%3D-20%3BwhiteSpace%3Dwrap%3Boverflow%3Dhidden%3Brounded%3D0%3Bshadow%3D1%3BfontColor%3D%23000000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22600%22%20y%3D%22420%22%20width%3D%22190%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;fontColor=#000000;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry y="420" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-50" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontColor=#000000;fillColor=#AEC4BE;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="475" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-54" value="Button Text" style="strokeWidth=3;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;mainText=;buttonStyle=round;fontSize=8;fontStyle=1;whiteSpace=wrap;fillColor=#FFE4CC;fontColor=#212529;strokeColor=#405466;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="450" y="224.89999999999998" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-55" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.copyrightIcon;fillColor=none;fontColor=#FFD966;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="350" y="445" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-58" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna a" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;shadow=1;fontColor=#FFD966;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="380" y="437.5" width="330" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-59" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;fontSize=8;fontColor=#212529;align=center;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="430" y="160" width="140" height="55.1" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-62" value="Your webpage name.com" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;shadow=1;fontColor=#FFD966;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="420" y="10" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-65" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;fontSize=8;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;gradientDirection=south;align=center;" parent="BQ0tYwW8RrJyI0LsjAmY-2" vertex="1">
+          <mxGeometry x="315" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-5" value="&lt;h1&gt;Padding left&lt;/h1&gt;&lt;p&gt;You must preserve a padding left to have your main content centered. Bootstrap CSS have examples of this pattern that make your page responsive. Measure of padding right must be in percentage&lt;br&gt;padding-left:20% = 20 % out of total document size&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;sketch=1;glass=1;" vertex="1" parent="BQ0tYwW8RrJyI0LsjAmY-2">
+          <mxGeometry x="-160" y="330" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-6" value="&lt;h1&gt;Main&amp;nbsp;&lt;/h1&gt;&lt;div&gt;This is the space you want to use to create your rows and columns. It also needs to be in % percentage to be relative and to enseure your page can be responsive&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;padding-left: 20%&lt;br&gt;padding-right: 20%;&lt;br&gt;&lt;br&gt;Then you main content will have a total width of 60%. Which is good for all most port views&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;glass=1;sketch=1;verticalAlign=middle;" vertex="1" parent="BQ0tYwW8RrJyI0LsjAmY-2">
+          <mxGeometry x="-40" y="50" width="310" height="234.9" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m9m_Br6r4iPs8pthSSDI-1" source="BQ0tYwW8RrJyI0LsjAmY-3" target="m9m_Br6r4iPs8pthSSDI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-3" value="&lt;h1&gt;Footer&lt;/h1&gt;&lt;p&gt;Your copyright information and contact information&lt;/p&gt;&lt;p&gt;This needs to be 100% width of the page to be responsive&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;glass=1;sketch=1;verticalAlign=middle;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="920" y="850" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-7" value="Total Width of the document should be relative given in %&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;body { width: 100% } preffered&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;body { width: 1200px } not preferred as it is hard to be responsive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;gradientColor=#ffffff;fontFamily=Lucida Console;fontStyle=3" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="360" y="1010" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-3" value="&lt;h1&gt;Assets&lt;/h1&gt;&lt;p&gt;You have an png image or PSD file and you want to slice &lt;b&gt;(select and cut selection; save cut selection as its own image file&lt;/b&gt;) assets you would need to build your index html page&lt;/p&gt;" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;" parent="m9m_Br6r4iPs8pthSSDI-1" vertex="1">
+          <mxGeometry x="-200" y="10" width="1000" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-6" value="" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-1" vertex="1">
+          <mxGeometry x="-200" y="90" width="1000" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-7" value="" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-6" vertex="1">
+          <mxGeometry width="1000" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-8" value="" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-7" vertex="1">
+          <mxGeometry width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-9" value="&lt;h1&gt;Header&lt;/h1&gt;&lt;p&gt;background header images and your brand logo are examples of assets you want to slice or ask your designer to provide you as standalone images.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;" parent="m9m_Br6r4iPs8pthSSDI-8" vertex="1">
+          <mxGeometry width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-10" value="" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-7" vertex="1">
+          <mxGeometry x="200" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-11" value="&lt;h1&gt;Images&lt;/h1&gt;&lt;p&gt;main body images you want to have for your page. The background image is an example of this kind of asset.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;" parent="m9m_Br6r4iPs8pthSSDI-10" vertex="1">
+          <mxGeometry x="10" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-12" value="" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-7" vertex="1">
+          <mxGeometry x="400" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-13" value="&lt;h1&gt;Buttons&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Usually buttons are not flat and they contain a background image . Ask your grpahic designer to provide you with the bacckground images for the buttons.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;" parent="m9m_Br6r4iPs8pthSSDI-12" vertex="1">
+          <mxGeometry x="12" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-14" value="" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-7" vertex="1">
+          <mxGeometry x="600" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-16" value="&lt;h1&gt;Footer&lt;/h1&gt;&lt;p&gt;This is the same case as in header but instead of the application name in the footer section you add your copany copright information and contact information.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;" parent="m9m_Br6r4iPs8pthSSDI-14" vertex="1">
+          <mxGeometry x="6" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m9m_Br6r4iPs8pthSSDI-15" value="" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="m9m_Br6r4iPs8pthSSDI-7" vertex="1">
+          <mxGeometry x="800" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-0" value="" style="swimlane;connectable=0;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;strokeColor=none;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-15">
+          <mxGeometry x="4" width="184" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-1" value="&lt;h1&gt;Assets Folder&lt;/h1&gt;&lt;p&gt;In your project files you must have an asset/ or image/ folders where you centralize all the images for the differents part of the page. If you do not have a centralized directory there will be problem later on with the image source location&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="BQ0tYwW8RrJyI0LsjAmY-0">
+          <mxGeometry x="7" width="189" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BQ0tYwW8RrJyI0LsjAmY-8" value="&lt;h1&gt;Layout&lt;/h1&gt;&lt;p&gt;This task will build your first iteration of the layout of your HTML page. This does not require other than HTML learn basics, use Bootstrap CSS. You do not to have installed any webserver yet since any chance you make to your index.html can be easily displayed in your browser by click on the file index.html (open with... Browser)&lt;/p&gt;" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;verticalAlign=bottom;rounded=1;shadow=1;sketch=1;glass=1;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-220" y="330" width="1130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="m9m_Br6r4iPs8pthSSDI-1" source="H2F6S0YaQBLWgccJcWh_-0" target="H2F6S0YaQBLWgccJcWh_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-0" value="Collect your page assets - images before start the layout" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;shadow=1;sketch=1;glass=1;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-590" y="30" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="m9m_Br6r4iPs8pthSSDI-1" source="H2F6S0YaQBLWgccJcWh_-1" target="H2F6S0YaQBLWgccJcWh_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-1" value="Write your index html template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;shadow=1;sketch=1;glass=1;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-590" y="330" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="m9m_Br6r4iPs8pthSSDI-1" source="H2F6S0YaQBLWgccJcWh_-2" target="H2F6S0YaQBLWgccJcWh_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-2" value="Verify in your browser ... repeat if you feel it require more tune up" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;glass=1;sketch=1;shadow=1;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-590" y="950" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-6" value="Iterate until you feel comfortable with the view of your index" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;fontStyle=1;fontColor=#EA6B66;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-640" y="685" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-7" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-670" y="-100" width="20" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-10" value="Graphich Designer&lt;br style=&quot;font-size: 23px;&quot;&gt;Frontend Developer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=23;fontStyle=2" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-900" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-13" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-670" y="380" width="20" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-14" value="Graphich Designer&lt;br style=&quot;font-size: 23px;&quot;&gt;Frontend Developer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=23;fontStyle=2" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-910" y="650" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-18" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;Roles&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Lucida Console;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-810" y="-80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-20" value="&lt;b&gt;Task&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Lucida Console;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-530" y="-70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-21" value="&lt;b&gt;Task Breawdown&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Lucida Console;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-180" y="-70" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-23" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontStyle=1" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-590" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-25" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontStyle=1" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-570" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-26" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#ffffff;gradientColor=#ffffff;gradientDirection=radial;verticalAlign=middle;strokeWidth=4;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-810" y="300" width="1960" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-28" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeWidth=4;fillColor=#ffffff;gradientColor=#ffffff;gradientDirection=radial;verticalAlign=middle;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-730" y="-90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-29" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeColor=#000000;strokeWidth=4;fillColor=#ffffff;gradientColor=#ffffff;gradientDirection=radial;verticalAlign=middle;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-425" y="-70" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-35" value="" style="group" vertex="1" connectable="0" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="100" y="-120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-30" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;fontFamily=Tahoma;fontSize=28;fontColor=#000000;" edge="1" target="H2F6S0YaQBLWgccJcWh_-32" parent="H2F6S0YaQBLWgccJcWh_-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-31" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;fontFamily=Tahoma;fontSize=28;fontColor=#000000;" edge="1" target="H2F6S0YaQBLWgccJcWh_-33" parent="H2F6S0YaQBLWgccJcWh_-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-32" value="" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;rounded=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeColor=#000000;strokeWidth=4;fillColor=#ffffff;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="H2F6S0YaQBLWgccJcWh_-35">
+          <mxGeometry y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-33" value="" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;rounded=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeColor=#000000;strokeWidth=4;fillColor=#ffffff;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="H2F6S0YaQBLWgccJcWh_-35">
+          <mxGeometry x="80" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-38" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeColor=#000000;strokeWidth=4;fillColor=#ffffff;gradientColor=none;gradientDirection=radial;verticalAlign=bottom;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-760" y="1180" width="2070" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-39" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;fontColor=#000000;strokeColor=#000000;strokeWidth=4;fillColor=#ffffff;gradientColor=none;gradientDirection=radial;verticalAlign=bottom;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-820" y="-30" width="1970" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-40" value="&lt;h1&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;UI Development Work Plan Template&lt;/h1&gt;&lt;p&gt;Below are industry standard steps I suggest you to work on the project we discuss earlier. Do not hesitate if you have questions or hit a roadblock. I can clarify any step outlined below for you to be able to continue working.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jaziel Lopez,&lt;/p&gt;&lt;p&gt;Experienced Sofware Engineer,&amp;nbsp; &amp;nbsp;jlopez.mx&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=28;verticalAlign=top;fillColor=#dae8fc;gradientColor=#7ea6e0;fontColor=#FFFFFF;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-820" y="-760" width="1940" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-42" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-250" y="-110" width="20" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-43" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fontSize=16;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-260" y="350" width="20" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-44" value="" style="swimlane;rounded=1;shadow=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=34;strokeColor=#000000;strokeWidth=4;gradientColor=none;gradientDirection=radial;verticalAlign=top;fontColor=#67AB9F;fillStyle=hachure;fillColor=#FFFF99;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-800" y="1320" width="2150" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="H2F6S0YaQBLWgccJcWh_-45" value="MEETING NOTES, DISCUSS ROADBLOCKS AND RISK IMPEDIMENTS" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;rounded=1;shadow=1;glass=1;sketch=1;fontFamily=Tahoma;fontSize=30;strokeColor=#000000;strokeWidth=4;verticalAlign=top;fontColor=#CC0000;" vertex="1" parent="m9m_Br6r4iPs8pthSSDI-1">
+          <mxGeometry x="-800" y="1260" width="1320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
